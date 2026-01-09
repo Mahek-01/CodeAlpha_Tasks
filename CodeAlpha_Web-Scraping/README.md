@@ -38,5 +38,3 @@ The following details were scraped for each book:
 
 ---
 
-## 📂 Project Structure
-
